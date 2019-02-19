@@ -5,10 +5,10 @@ The humidex (short for humidity index) is an index number used by Canadian meteo
 
 ![equation](https://latex.codecogs.com/png.latex?\fn_jvn&space;\large&space;{\displaystyle&space;H=T_{\text{air}}&plus;0.5555\left[6.11e^{5417.7530\left({\frac&space;{1}{273.16}}-{\frac&space;{1}{273.15&plus;T_{\text{dew}}}}\right)}-10\right]})
 
-20 to 29: Little to no discomfort
-30 to 39: Some discomfort
-40 to 45: Great discomfort; avoid exertion
-Above 45: Dangerous; heat stroke quite possible
+- 20 to 29: Little to no discomfort
+- 30 to 39: Some discomfort
+- 40 to 45: Great discomfort; avoid exertion
+- Above 45: Dangerous; heat stroke quite possible
 
 ![Humidex](https://github.com/icatorze/humidex/blob/master/Images/humidex1.png)
 
